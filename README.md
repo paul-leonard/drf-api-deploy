@@ -2,7 +2,7 @@
 Gunicorn is used as a production server.  The site is hosted on Heroku and the postgres SQL database is on elephantSQL.
 
 ## Lab Submission Pull Requests
-[Lab33: Authentication & Production Server](https://github.com/paul-leonard/drf-api-deploy/pull/1)
+[Lab36: Back End Deployment of API Service](https://github.com/paul-leonard/drf-api-deploy/pull/1)
 
 ## Release Info
 **Author**: Paul Leonard
